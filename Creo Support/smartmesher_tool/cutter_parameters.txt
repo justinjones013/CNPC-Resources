@@ -1,0 +1,9 @@
+cutterface_Chord_Height:  0.5
+cutterface_Chord_Angle:  0.5
+cutterface_Step_Size: 10
+cutterchamfer_Chord_Height:  0.5
+cutterchamfer_Chord_Angle:  0.5
+cutterchamfer_Step_Size: 10
+cutterbody_Chord_Height: 0.5
+cutterbody_Chord_Angle: 0.5
+cutterbody_Step_Size: 10

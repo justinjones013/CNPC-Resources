@@ -1,0 +1,7 @@
+2024-07-02 8:27:20 AM	Process is Started
+2024-07-02 8:27:20 AM	Menu Bar Added = 0
+2024-07-02 8:27:20 AM	Cmd action added: 1 = 0
+2024-07-02 8:27:20 AM	Menu Bar Push Button added: 1 = 0
+2024-07-02 8:27:20 AM	Cmd action added: 2 = 0
+2024-07-02 8:27:20 AM	Menu Bar Push Button added: 2 = 0
+2024-07-02 8:27:20 AM	Retrieves the path to the directory containing the text directory for the application = 0

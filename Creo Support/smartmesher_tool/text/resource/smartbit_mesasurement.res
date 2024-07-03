@@ -1,0 +1,87 @@
+(Dialog smartbit_mesasurement
+    (Components
+        (SubLayout Content)
+        (PushButton CommitOK)
+        (PushButton CommitCancel)
+    )
+    (Resources
+        (CommitOK.Label "OK")
+        (CommitOK.TopOffset 10)
+        (CommitOK.BottomOffset 10)
+        (CommitOK.LeftOffset 40)
+        (CommitOK.RightOffset 0)
+        (CommitOK.ResourceHints "Template:OKCancelDialog.CommitOK")
+        (CommitOK.Sensitive False)
+        (CommitCancel.Label "Cancel")
+        (CommitCancel.TopOffset 10)
+        (CommitCancel.BottomOffset 10)
+        (CommitCancel.LeftOffset 8)
+        (CommitCancel.RightOffset 10)
+        (CommitCancel.ResourceHints "Template:OKCancelDialog.CommitCancel")
+        (.Label "SmartBit Measurement")
+        (.ResourceHints "Version:Creo4" "@Subgrid0x1.Template:OKCancelDialog.CommitBar")
+        (.TopOffset 0)
+        (.BottomOffset 0)
+        (.LeftOffset 0)
+        (.RightOffset 0)
+        (.LabelAlignment 0)
+        (.HelpTextAlignment 2)
+        (.CanReduceWidth 2)
+        (.CanReduceHeight 2)
+        (.Layout
+            (Grid
+                (Rows 1 0)
+                (Cols 1)
+                Content
+                (Grid
+                    (Rows 1)
+                    (Cols 1 0 0)
+                    (Pos 1 2)
+                    CommitOK
+                    (Pos 1 3)
+                    CommitCancel
+                )
+            )
+        )
+    )
+)
+(Layout Content
+    (Components
+        (Label Measurement_Label)
+        (OptionMenu Measurement_op)
+    )
+    (Resources
+        (Measurement_Label.Label "SmartBit")
+        (Measurement_Label.AttachLeft True)
+        (Measurement_Label.Alignment 0)
+        (Measurement_Label.Resizeable True)
+        (Measurement_Label.TopOffset 3)
+        (Measurement_Label.BottomOffset 2)
+        (Measurement_Label.LeftOffset 7)
+        (Measurement_Label.RightOffset 4)
+        (Measurement_op.TopOffset 1)
+        (Measurement_op.BottomOffset 2)
+        (Measurement_op.LeftOffset -10)
+        (Measurement_op.RightOffset 10)
+        (.AttachLeft True)
+        (.AttachRight True)
+        (.AttachTop True)
+        (.TopOffset 16)
+        (.BottomOffset 16)
+        (.LeftOffset 10)
+        (.RightOffset 10)
+        (.ResourceHints "Template:OKCancelDialog.Content")
+        (.AttachBottom True)
+        (.Layout
+            (Grid
+                (Rows 0)
+                (Cols 0)
+                (Grid
+                    (Rows 0)
+                    (Cols 0 0)
+                    Measurement_Label Measurement_op
+                )
+            )
+        )
+    )
+)

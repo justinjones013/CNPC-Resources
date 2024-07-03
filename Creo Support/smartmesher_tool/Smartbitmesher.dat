@@ -1,0 +1,6 @@
+NAME SmartbitMesher
+EXEC_FILE C:\Users\justin.jones\CNPC Project\smartmesher_tool\SmartbitMesher.dll
+TEXT_DIR C:\Users\justin.jones\CNPC Project\smartmesher_tool\text
+STARTUP dll
+END
+
