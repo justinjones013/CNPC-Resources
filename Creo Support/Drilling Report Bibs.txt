@@ -1,0 +1,252 @@
+@article{10.2118/15618-PA,
+    author = {Warren, T. M. and Sinor, A.},
+    title = "{Drag-Bit Performance Modeling}",
+    journal = {SPE Drilling Engineering},
+    volume = {4},
+    number = {02},
+    pages = {119-127},
+    year = {1989},
+    month = {06},
+    abstract = "{Models for the forces required to remove a fixed volume of rock with a single cutter have been applied to different polycrystalline-diamond-compact (PDC) bit designs. The integration of the forces for each cutter over the bit face gives the torque and weight on bit (WOB) required for a particular rate of penetration (ROP). This paper presents the results of comparing such a model to laboratory drilling tests for four radically different bit designs in four different rocks. The geometry of each cutter on the bit was determined by detailed measurements of the bit with a three-axis coordinate measuring machine. Drilling tests were conducted by "reaming" rock with an 8½-in. [21.6-cm] bit that was previously drilled with a 6¼-in. [15.9-cm] bit. Only the peripheral cutters engaged the rock during reaming. Additional tests were conducted in which the WOB and torque were recorded during drilling of a pilot hole into the top of a flat rock and during drilling through two different bed boundaries with constant ROP. The model predictions compared well to the measured data for both the reaming and pilot-hole tests.}",
+    issn = {0885-9744},
+    doi = {10.2118/15618-PA},
+    url = {https://doi.org/10.2118/15618-PA},
+    eprint = {https://onepetro.org/DC/article-pdf/4/02/119/2630277/spe-15618-pa.pdf},
+}
+
+
+
+@article{10.2118/19572-PA,
+    author = {Warren, Thomas M. and Brett, J. Ford and Sinor, L. Allen},
+    title = "{Development of a Whirl-Resistant Bit}",
+    journal = {SPE Drilling Engineering},
+    volume = {5},
+    number = {04},
+    pages = {267-274},
+    year = {1990},
+    month = {12},
+    abstract = "{Bit whirl is a major cause of early failure and reduced performance of polycrystalline-diamond-compact (PDC) bits. Attempts to control bit whirl by stabilizing the drillstring have been unsuccessful, but a "low-friction" bit design has been discovered that substantially eliminates whirl. The low-friction design is based on placing the cutters so that the net imbalance force from the cutters is directed toward a smooth pad that slides along the wellbore wall.}",
+    issn = {0885-9744},
+    doi = {10.2118/19572-PA},
+    url = {https://doi.org/10.2118/19572-PA},
+    eprint = {https://onepetro.org/DC/article-pdf/5/04/267/2628303/spe-19572-pa.pdf},
+}
+
+
+
+@article{10.2118/19571-PA,
+    author = {Brett, J. Ford and Warron, Thomas M. and Bohr, Suzanne M.},
+    title = "{Bit Whirl—A New Theory of PDC Bit Failure}",
+    journal = {SPE Drilling Engineering},
+    volume = {5},
+    number = {04},
+    pages = {275-281},
+    year = {1990},
+    month = {12},
+    abstract = "{This paper presents the results of a study showing that the most harmful polycrystalline-diamond-compact (PDC) bit vibrations can be attributed to a phenomenon called "bit whirl." During whirl, the instantaneous center of rotation moves around the face of the bit, and the bit whirls backward around the hole. Cutters on a whirling bit can move sideways, backward, and much faster than those on a true rotating bit. The impact loads associated with this motion cause PDC cutters to chip, which, in turn, accelerates wear. Laboratory and field results show the detrimental effects of whirl on PDC bit rate of penetration (ROP) and life.}",
+    issn = {0885-9744},
+    doi = {10.2118/19571-PA},
+    url = {https://doi.org/10.2118/19571-PA},
+    eprint = {https://onepetro.org/DC/article-pdf/5/04/275/2628392/spe-19571-pa.pdf},
+}
+
+
+
+@article{10.2118/21928-PA,
+    author = {Behr, S. M. and Warren, T. M. and Sinor, L. A. and Brett, J. F.},
+    title = "{3D PDC Bit Model Predicts Higher Cutter Loads}",
+    journal = {SPE Drilling & Completion},
+    volume = {8},
+    number = {04},
+    pages = {253-258},
+    year = {1993},
+    month = {12},
+    abstract = "{Historically, PDC bit modeling has incorporated the assumption that cutter forces are constant for a full revolution of the bit. This assumption places considerable limits on the model's ability to simulate drilling in nonhomogeneous rock and in cases where the bit whirls. Recent studies have shown that cutter damage caused by impact loading is a primary cause of PDC bit failure. These impacts may be caused by both bit whirl and drilling through nonhomogeneous rock. The 3D model presented provides the capability to evaluate cutter loading for both conditions. It shows that the cutter loads for common drilling situations may be as much as 10 times greater than those calculated with previously available 2D models.}",
+    issn = {1064-6671},
+    doi = {10.2118/21928-PA},
+    url = {https://doi.org/10.2118/21928-PA},
+    eprint = {https://onepetro.org/DC/article-pdf/8/04/253/2610699/spe-21928-pa.pdf},
+}
+
+
+
+
+@proceedings{10.2118/23867-MS,
+    author = {Langeveld, C. J.},
+    title = "{PDC Bit Dynamics}",
+    volume = {All Days},
+    series = {SPE/IADC Drilling Conference and Exhibition},
+    pages = {SPE-23867-MS},
+    year = {1992},
+    month = {02},
+    abstract = "{The poor performance of PDC bits in harder formations is caused by downhole vibrations. However, proper operating conditions (i.e. low rotary speed and high weight on bit) and new technology for vibration control (anti-whirl PDC bits and a soft-torque rotary system) can successfully extend the application of PDC bits to harder formations. This conclusion is based on numerical modelling of PDC bit/drillstring assemblies and is supported by recent developments in PDC bit technology and torsional vibration control systems. The PDC bit model is fully dynamic and three-dimensional and is used to simulate normal rotary drilling. Sensitivity analyses of different PDC bit designs show bit-induced torsional, axial and lateral vibrations. Moreover, these analyses show that conventional PDC bits tend to whirl backward, resulting in reduced penetration rates and bit life. Antiwhirl PDC bits effectively reduce this tendency when run under the proper operating conditions of low rotary speed and high weight on bit.}",
+    doi = {10.2118/23867-MS},
+    url = {https://doi.org/10.2118/23867-MS},
+    eprint = {https://onepetro.org/SPEDC/proceedings-pdf/92DC/All-92DC/SPE-23867-MS/3166585/spe-23867-ms.pdf},
+}
+
+
+
+@proceedings{10.2118/26954-MS,
+    author = {Clayton, R. I. and Ivie, B. S.},
+    title = "{Development of Whirl Resistant PDC Bits}",
+    volume = {All Days},
+    series = {SPE Latin America and Caribbean Petroleum Engineering Conference},
+    pages = {SPE-26954-MS},
+    year = {1994},
+    month = {04},
+    abstract = "{The destructive effects of the dynamic forces typically induced by bit whirl have beert identified in previous works. The material presented deals with innovative design features recently developed for PDC bits which resist initiation and propagation of bit whirl.As stated in previous work, bit whirl can be initiated by both cutter/rock interaction forces and extraneous factors such as formation characteristics and undesirable BHA motions. Previous work has also shown how conventional PDC bit technology provides little resistance to whirl and in many cases may reinforce whirl once initiated.Several PDC bit features have been identified that improve bit stability. Cutter force balancing, bit asymmetry, gage design, bit profile, and cutter configuration and arrangement can all contribute to eliminating the propagation of whirl. All of these features will be investigated and assessment of their benefits reported.}",
+    doi = {10.2118/26954-MS},
+    url = {https://doi.org/10.2118/26954-MS},
+    eprint = {https://onepetro.org/SPELACP/proceedings-pdf/94LACPEC/All-94LACPEC/SPE-26954-MS/3142847/spe-26954-ms.pdf},
+}
+
+
+@article{10.2118/30478-PA,
+    author = {Abbassian, Fereidoun and Dunayevsky, V. A.},
+    title = "{Application of Stability Approach to Torsional and Lateral Bit Dynamics}",
+    journal = {SPE Drilling & Completion},
+    volume = {13},
+    number = {02},
+    pages = {99-107},
+    year = {1998},
+    month = {06},
+    abstract = "{This paper addresses the dynamic stability of polycrystalline diamond compact (PDC) bits under induced torsional and lateral vibrations. Dynamic stability is investigated by considering three simple mechanical systems representing string-torsional vibration, bit-lateral dynamics, and coupled torsional-lateral vibration of the bit-string assembly. For each system, the rotary-speed (rev/min)/ weight-on-bit (WOB) domain within which the system is dynamically stable is determined. The influence of various drillstring and bit parameters on the stability of bit motion is studied through their effect on the size of the stability zone on (rev/min)/WOB plots. These illustrate the power of the stability approach in providing valuable qualitative information on the main parameters influencing bit stability.}",
+    issn = {1064-6671},
+    doi = {10.2118/30478-PA},
+    url = {https://doi.org/10.2118/30478-PA},
+    eprint = {https://onepetro.org/DC/article-pdf/13/02/99/2593838/spe-30478-pa.pdf},
+}
+
+
+
+
+@proceedings{10.2118/146561-MS,
+    author = {Jain, Jayesh R. and Ledgerwood, L. W. and Hoffmann, Olivier J. and Schwefe, Thorsten  and Fuselier, Danielle M.},
+    title = "{Mitigation of Torsional Stick-Slip Vibrations in Oil Well Drilling through PDC Bit Design: Putting Theories to the Test}",
+    volume = {All Days},
+    series = {SPE Annual Technical Conference and Exhibition},
+    pages = {SPE-146561-MS},
+    year = {2011},
+    month = {10},
+    abstract = "{Stick-slip vibrations of drillstrings have been studied by researchers for several decades. The subject is gaining renewed interest as operating parameters for PDC bits have shifted to the stick-slip regime of higher bit weight and lower rotary speed for enhanced drilling performance. In Ledgerwood et al. (2010), stick-slip was identified as a primary cause of bit damage. The main objective of the current investigation is to answer the longstanding question: Do bit designs influence stick-slip behavior of the drilling system? Five prevailing industry perceptions reported in the literature are that anti-whirl bits, reduced exposure bits, and bits with bit-rock interaction number "β" \\&gt; 1 are less prone to stick-slip, while highly aggressive bits and worn bits are more prone to stick-slip. Although the phenomenological basis of these theories has been provided, validation in most cases is based on anecdotal evidence from the field. Data with diagnosis based on downhole measurements in a controlled environment are scarce. Consequently, conflicting opinions continue to exist about whether any of these theories work in reality.To assess their validity, the five leading theories were reviewed and pairs of PDC bits were designed and manufactured. Each pair consisted of a bit with a standard design and a bit that embodied one of the theories. The bits were first tested in the laboratory to characterize their response. Full-scale wells were then drilled under controlled conditions using a research drill rig in Oklahoma. In these wells, only the operating parameters were varied while BHA, formation, and other variables were unchanged for a given bit pair. The downhole vibrations were measured with a new in-bit device and an industry-proven MWD vibration monitoring service.The most important conclusion emerging from this study is that PDC bit design has a significant effect on stick-slip vibrations. While some of the theories held true, evidence from this study did not support others. The details of test results are provided and various aspects of bit design are discussed in an attempt to enhance the understanding of stick-slip mitigation.}",
+    doi = {10.2118/146561-MS},
+    url = {https://doi.org/10.2118/146561-MS},
+    eprint = {https://onepetro.org/SPEATCE/proceedings-pdf/11ATCE/All-11ATCE/SPE-146561-MS/1665460/spe-146561-ms.pdf},
+}
+
+
+
+@proceedings{10.2118/156240-MS,
+    author = {Kovalyshen, Yevhen },
+    title = "{A New Model of Bit Whirl}",
+    volume = {All Days},
+    series = {IADC/SPE Asia Pacific Drilling Technology Conference and Exhibition},
+    pages = {SPE-156240-MS},
+    year = {2012},
+    month = {07},
+    abstract = "{A simple analytical model of bit whirl is presented. In contrast to the previous works, which consider BHA mass imbalance to model bit whirl, the model here takes into account the history-dependent boundary conditions at the bit-rock interface. Within this model, the geometry of the bit is characterized by three dimensionless parameters. The results have shown that, depending on the value of these parameters, the system can be stable or undergo forward or backward whirl. As a result, the model has potential application as a tool that assists bit design.}",
+    doi = {10.2118/156240-MS},
+    url = {https://doi.org/10.2118/156240-MS},
+    eprint = {https://onepetro.org/SPEAPDT/proceedings-pdf/12APDT/All-12APDT/SPE-156240-MS/1607870/spe-156240-ms.pdf},
+}
+
+
+
+@proceedings{10.2118/167968-MS,
+    author = {Jain, Jayesh R. and Oueslati, Hatem  and Hohl, Andreas  and Reckmann, Hanno  and Ledgerwood, L. W. and Tergeist, Mathias  and Ostermeyer, G. P.},
+    title = "{High-Frequency Torsional Dynamics of Drilling Systems: An Analysis of the Bit-System Interaction}",
+    volume = {All Days},
+    series = {SPE/IADC Drilling Conference and Exhibition},
+    pages = {SPE-167968-MS},
+    year = {2014},
+    month = {03},
+    abstract = "{Recent advances in downhole vibration monitoring have enabled detection of high-frequency torsional oscillations (HFTO) of drilling systems in the field. The general understanding of torsional behavior of drilling systems derived from elaborate efforts in the literature does not explain the mechanism responsible for HFTO. Even for the well-known and extensively studied stick/slip vibrations, the mechanism perpetuating the vibrations is not agreed upon by researchers.The paper discusses findings from experimental and analytical studies regarding the HFTO of bottomhole assemblies (BHAs). The phenomenon is investigated and reproduced in field tests, full-scale laboratory tests, and computer modeling. Drilling conditions are identified in which the drilling system is prone to exhibit the vibrations. Interaction of the bit and the drilling system, which can generate self-excited vibrations, is investigated using analytical methods. Cutter-rock interaction as a possible excitation source is studied using laboratory experiments to elucidate its interaction with the system.The integrated analysis investigating rock, cutter, bit, and BHA interaction identifies HFTO as a bit-induced BHA torsional resonance that can occur at vibration modes higher than the fundamental mode of the BHA. It is demonstrated that modes most susceptible to exhibiting HFTO can be identified and the dominant mode predicted. The understanding gained can be employed to mitigate torsional resonance and enhance drilling performance.}",
+    doi = {10.2118/167968-MS},
+    url = {https://doi.org/10.2118/167968-MS},
+    eprint = {https://onepetro.org/SPEDC/proceedings-pdf/14DC/All-14DC/SPE-167968-MS/1510590/spe-167968-ms.pdf},
+}
+
+
+
+@proceedings{10.2118/170708-MS,
+    author = {Wang, Yaou  and Shen, Yuelin  and Charter, Marc  and Skoff, Gregory },
+    title = "{High Frequency Vibration Measurement Coupled with Time-Based Dynamic Simulations: New System to Predict/Solve Instability Issues}",
+    volume = {All Days},
+    series = {SPE Annual Technical Conference and Exhibition},
+    pages = {SPE-170708-MS},
+    year = {2014},
+    month = {10},
+    abstract = "{Downhole vibration is detrimental to drilling efficiency and can cause MWD/LWD tool failure, drillstring fatigue, bit/PDM damage. Preventing or mitigating BHA instability is critical to improve drilling efficiency, increase ROP and reduce drilling costs. To prevent dynamic instability requires an in-depth understanding of the BHA's downhole behavior in terms of the actual phenomenon and ability to determine root cause. Downhole RPM and vibration data sent to surface from MWD/LWD usually have very low frequency limited by telemetry. Because vibrations are measured at a distance from the bit, the data may not capture detailed bit behavior patterns. The low frequency data is typically used in combination with steady-state response or static analysis models developed to predict interaction between the drillstring and wellbore. Results produced by these type systems have been less than optimal.To obtain superior quality downhole vibration data, a high-frequency drilling dynamics measurement module (DDMM) was recently developed to capture and measure bit/BHA dynamic response. The authors will describe the application of the new module to measure and record downhole RPM, acceleration at bit/BHA at sampling frequencies up to 2048-Hz. Analysis verified the high-frequency data produces more specific details about dynamic behavior compared to standard data. The module can be positioned at any location within the BHA or directly above the bit.The high-frequency data is used in conjunction with a unique time-based dynamic simulation system to verify and confirm the modeling's prediction of ROP/RPM, acceleration and drillstring instability including stick-slip/whirl. When drilling dysfunction is observed, the time-based modeling system has the potential to ascertain the root cause not typically identified in measured data. This system approach is cost effective and can be highly effective at preventing or mitigating complex instability issues. Three DDMM field tests are presented that document the capability of the combined testing and modeling system approach to achieve better understanding of downhole dynamics:Rotary BHA with one DDMM positioned at top of bit. Analysis of actual downhole data from DDMM shows large RPM variation at the bit which was confirmed by the time-based modeling system. The two data plots showed good correlation between axial/lateral acceleration (acceleration/g's vs time/sec).Motor BHA with two DDMMs installed. One positioned at top of motor another at top of the bit. Analysis of actual data documents stick-slip at the bit and top of motor which is confirmed by the modeling system. Detailed analysis of the two data plots revealed good correlation between actual and modeled data with both depicting negative RPM at the top of the motor with increased acceleration at the occurrence of stick-slip (RPM vs time/sec).Motor BHA with two DDMMs installed. One positioned at top of motor, another at top of bit. Analysis of actual data documents stick slip at the top of motor which was confirmed by the modeling system. Further analysis of the modeling data plot identified stick-slip coupled with BHA whirl.The case studies document accurate modeling predictions of ROP/RPM and acceleration corroborated by the measured data. Modeling also successfully predicted dynamic instability issues identified by actual DDMM measurement and gave specific details about coupling of stick-slip and BHA whirl not observed in the measured data.}",
+    doi = {10.2118/170708-MS},
+    url = {https://doi.org/10.2118/170708-MS},
+    eprint = {https://onepetro.org/SPEATCE/proceedings-pdf/14ATCE/All-14ATCE/SPE-170708-MS/1494983/spe-170708-ms.pdf},
+}
+
+
+@article{10.2118/170713-PA,
+    author = {Bowler, Adam  and Harmer, Richard  and Logesparan, Lojini  and Sugiura, Junichi  and Jeffryes, Ben  and Ignova, Maja },
+    title = "{Continuous High-Frequency Measurements of the Drilling Process Provide New Insights Into Drilling-System Response and Transitions Between Vibration Modes}",
+    journal = {SPE Drilling & Completion},
+    volume = {31},
+    number = {02},
+    pages = {106-118},
+    year = {2016},
+    month = {05},
+    abstract = "{The oil-and-gas industry has become increasingly interested in drilling dynamics and vibration as causes of drilling inefficiency and reduced drilling performance. Generally, drillstring vibration is measured with shock-and-vibration sensors installed in measurement-while-drilling (MWD) tools, logging-while-drilling (LWD) tools, and rotary steerable systems (RSS). Although these tools provide valuable real-time and recorded-mode information on the dynamic conditions, they are not generally designed to capture continuous high-frequency (HF) mechanics and dynamics data, and burst data may miss important information about the evolution of the system response and state.A downhole mechanics measurement tool has been developed that makes a comprehensive suite of measurements of the drilling process, including forces, accelerations, rotational speed, pressures, and temperatures. In addition to providing information in real time, the tool has the capability to capture long durations of continuous data at frequencies between 50 and 2,000 Hz. The recorded-mode information obtained has provided significant insight into the response of the drilling system to starting rotation; drilling procedures and parameter modifications; and exposure to excitation from sources including, but not limited to, rig heave, bottomhole-assembly (BHA) component imbalance, and bit/rock interaction. A wide range of occurrences has been captured in which the drilling system switches from a dominant vibration mode, typically torsional (downhole rotation-velocity oscillations or stick/slip) into a different mode, such as axial (bit bounce) or lateral (whirl). Transitions between different types of whirl have also been recorded.Several cases were studied to investigate the evolution and response of drilling-system behavior on the basis of in-depth interpretation of relatively long durations (minutes to hours) of HF data sets in the operational context. The findings verify the value of using continuous HF vibration data to understand the drilling system and to increase drilling performance.}",
+    issn = {1064-6671},
+    doi = {10.2118/170713-PA},
+    url = {https://doi.org/10.2118/170713-PA},
+    eprint = {https://onepetro.org/DC/article-pdf/31/02/106/2094727/spe-170713-pa.pdf},
+}
+
+
+
+
+@proceedings{10.2118/29401-MS,
+    author = {Hanson, J. M. and Hansen, W. R.},
+    title = "{Dynamics Modeling of PDC Bits}",
+    volume = {All Days},
+    series = {SPE/IADC Drilling Conference and Exhibition},
+    pages = {SPE-29401-MS},
+    year = {1995},
+    month = {02},
+    abstract = "{A numerical bit dynamics model has been developed for the purpose of predicting PDC drill bit performance under conditions of a full-scale drilling simulator test. The model accounts for the interaction of the PDC cutters with the bottom hole and side wall rock surface and bit impact energy loss and friction between the bit gage and hole wall. It also accounts for the induced vibration of the main mechanical components of the full-scale drilling simulator. The model has been validated by comparing predicted bit performance with full scale drilling experiments.Twenty bit designs (15 anti-whirl and five "conventional") ranging from 5 7/8" to 17 1/2" have been used in this validation. The numerical simulator correctly predicts for 18 out of the 20 bits whether or not the bit whirls and the rate of penetration at which the bit stops vibrating in the hole.This paper discusses the development, numerical implementation, and experimental validation of this PDC bit numerical drilling dynamics simulator.}",
+    doi = {10.2118/29401-MS},
+    url = {https://doi.org/10.2118/29401-MS},
+    eprint = {https://onepetro.org/SPEDC/proceedings-pdf/95DC/All-95DC/SPE-29401-MS/3107442/spe-29401-ms.pdf},
+}
+
+
+
+@proceedings{10.2118/208681-MS,
+    author = {Russell, S. Craig and Duffy, Stephen and Matthews, Oliver},
+    title = "{Shaped Cutter Performance Optimization Through Advanced Drilling Simulations}",
+    volume = {Day 1 Tue, March 08, 2022},
+    series = {SPE/IADC Drilling Conference and Exhibition},
+    pages = {D011S005R003},
+    year = {2022},
+    month = {03},
+    abstract = "{Historically polycrystalline diamond compact cutters have consisted of a planar cutting face on a cylindrical diamond table. For decades industry has been aware of the potential drilling performance gains from forming these cylindrical cutters into other geometrical shapes. These early generation shaped cutters did not gain traction due to limitations in diamond technology, and high manufacturing costs associated with shaping the cutters. Recently PDC drill bits with shaped cutter designs are becoming more prolific in worldwide drilling applications. Often, the novelty in the design of the cutter shapes is enticing enough to merit opportunities for field runs. However, without an informed understanding of shaped cutter behaviors, there is risk of diminished drilling performance if the cutter shapes are not applied properly to the bit and application. The objective of this paper is to develop methods to evaluate two critical behaviors for shaped PDC cutter designs, overload integrity and aggressivity, and apply these methods to a full bit drilling model.The cutter overload integrity characterization methods are developed using finite element analysis and the aggressivity characterization is based on high pressure visual single point cutter laboratory test data. The information is fed into a full bit drilling numerical model to predict bit performance and ability to avoid cutter breakage in a simulated drilling environment, accounting for factors such as lithology, interbedded transitions, bottom hole assembly type, and operating parameters. The models enable optimization of shaped cutter design and fit for purpose cutter selection.The full bit model is tested and validated against field runs. Case studies include interbedded drilling in the Haynesville and Permian Basins. In both applications, bits were run with different shaped cutter designs, using drilling performance and dull photos to compare to the model outputs. ROP gains of 35\\% were seen in the Haynesville application, while the cutter survival rate more than doubled in the Permian application by using optimally selected shaped cutters.The methods presented in this paper provide new pathways for shaped cutter design and selection. Digital tools are demonstrated to perform the multi-faceted analysis efficiently for pre-well planning and post-run analysis.}",
+    doi = {10.2118/208681-MS},
+    url = {https://doi.org/10.2118/208681-MS},
+    eprint = {https://onepetro.org/SPEDC/proceedings-pdf/22DC/1-22DC/D011S005R003/2649378/spe-208681-ms.pdf},
+}
+
+
+
+@proceedings{10.2118/212453-MS,
+    author = {Zhang, Yifan and Ashok, Pradeepkumar and Chen, Dongmei and van Oort, Eric},
+    title = "{A Control-Oriented Lumped Parameter Drillstring Dynamic Model for Real-Time Vibration Mitigation and Drilling Optimization}",
+    volume = {Day 1 Tue, March 07, 2023},
+    series = {SPE/IADC Drilling Conference and Exhibition},
+    pages = {D011S004R001},
+    year = {2023},
+    month = {03},
+    abstract = "{Drilling is an essential operation for subsurface hydrocarbon/geothermal energy extraction or underground waste fluid/gas storage. Efficient drilling is the key to an economically viable operation. Axial, torsional, and lateral oscillations that are excited in the drillstring by various surface/downhole sources (like the application of the weight-on-bit (WOB), rock cutting process, bottom-hole-assembly (BHA) resonance, downhole tool operation, drilling fluid dynamics, etc.), are the prime causes of downhole tool failure, material fatigue, bit wear/damage, and insufficient surface-to-bottom energy transfer. Since the 1960s, a wide variety of models have been developed to analyze drillstring dynamics and optimize the well/drillstring design. With the advance of drilling engineering, sensor technology, and data science, a fast and comprehensive drilling system dynamic model is in need for real-time drilling optimization and automation.In this study, a control-oriented physics-based lumped parameter model (LPM) is developed to investigate the fully coupled drillstring dynamics in all three directions. Various boundary conditions (wellbore-drillstring interaction, bit-rock interaction, presence of stabilizers/centralizers) and system input actuations (surface WOB/hookload, surface rotational speed (RPM)/torque, mud motor operational parameters, etc.) are defined in the modeling framework. Simulations are run for different drillstring scenarios in a vertical and an actual L-shaped wellbore configuration. System dynamic responses illustrate various amplitudes, frequencies, and modes of fully coupled drillstring vibrations at different depths when simulated with different drilling parameters. Another significant observation is the emergence, propagation, and transition of lateral vibration modes between forward, backward, and chaotic whirl patterns. Based on the tradeoff between accuracy and complexity, the proposed dynamic model can be adapted for real-time model-based control, and can also be deployed for well design purposes or digital twinning applications.}",
+    doi = {10.2118/212453-MS},
+    url = {https://doi.org/10.2118/212453-MS},
+    eprint = {https://onepetro.org/SPEDC/proceedings-pdf/23DC/1-23DC/D011S004R001/3091280/spe-212453-ms.pdf},
+}
+
+
